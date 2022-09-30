@@ -9,7 +9,7 @@ const client = new Client({
 });
 
 // Bot login token.
-const TOKEN = "MTAyNDMwNjY2MjQ5ODEyMzc5Ng.GUMoZd.OcQDkatoASX01RiERcuIAsWgO1KBgdUksDuUx8";
+const TOKEN = "token";
 
 // When the clients ready, it logs "Logged In."
 client.on('ready', () => {
